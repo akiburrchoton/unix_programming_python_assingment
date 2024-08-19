@@ -6,8 +6,8 @@ The “Unix Programming in Python” repository showcases assignments focused on
 <h5>Technical Features and Implementations:</h5>
 <h6>File Manipulation:<h6>
 <ul>
-<li>• File Handling: Developed Python scripts for various file operations including reading from, writing to, and modifying files. </li>
-<li> • Directory Operations: Implemented utilities to manage directories, such as listing directory contents, creating and deleting  directories.</li>
+<li>File Handling: Developed Python scripts for various file operations including reading from, writing to, and modifying files. </li>
+<li>Directory Operations: Implemented utilities to manage directories, such as listing directory contents, creating and deleting  directories.</li>
 </ul>
 Process Control:
 • Process Management: Created scripts to manage processes, including starting, monitoring, and terminating processes. The scripts mimic Unix process control behaviors.
