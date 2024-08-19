@@ -15,7 +15,6 @@ The “Unix Programming in Python” repository showcases assignments focused on
 <li>Process Management: Created scripts to manage processes, including starting, monitoring, and terminating processes. The scripts mimic Unix process control behaviors.</li>
 <li>Signal Handling: Incorporated functionality for signal handling to manage Unix signals, allowing scripts.</li>
 </ul>
-<ul>
   
 <h5>Inter-Process Communication (IPC):</h5>
 <ul>
