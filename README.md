@@ -1,13 +1,14 @@
 # Unix Programming in Python
 
-Project Overview:
+<h5>Project Overview</h5>:
 The “Unix Programming in Python” repository showcases assignments focused on leveraging Python to emulate Unix-like programming tasks. This project emphasizes the integration of Unix system programming principles with Python scripting, providing a practical approach to handling system-level operations.
 
-Technical Features and Implementations:
-File Manipulation:
-• File Handling: Developed Python scripts for various file operations including reading from, writing to, and modifying files.
-• Directory Operations: Implemented utilities to manage directories, such as listing directory contents, creating and deleting directories.
-
+<h5>Technical Features and Implementations</h5>:
+<h6>File Manipulation<h6>:
+<ul>
+<li>• File Handling: Developed Python scripts for various file operations including reading from, writing to, and modifying files. </li>
+<li> • Directory Operations: Implemented utilities to manage directories, such as listing directory contents, creating and deleting  directories.</li>
+</ul>
 Process Control:
 • Process Management: Created scripts to manage processes, including starting, monitoring, and terminating processes. The scripts mimic Unix process control behaviors.
 • Signal Handling: Incorporated functionality for signal handling to manage Unix signals, allowing scripts.
