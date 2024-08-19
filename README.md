@@ -17,7 +17,7 @@ The “Unix Programming in Python” repository showcases assignments focused on
 </ul>
 <ul>
   
-<h5>Inter-Process Communication (IPC)</h5>:
+<h5>Inter-Process Communication (IPC):</h5>
 <ul>
 <li>IPC Mechanisms: Employed Python’s built-in libraries to implement IPC. This includes the use of pipes and other IPC techniques.</li>
 <li>CLI Design: Designed command-line interfaces for interacting with the scripts, allowing users to execute various tasks. This approach mirrors Unix command-line tools, providing a familiar interface for users.</li>
