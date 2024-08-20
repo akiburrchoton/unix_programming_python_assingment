@@ -1,4 +1,4 @@
-# Unix Programming in Python
+# Unix Programming by Python
 
 <h4>Project Overview:</h4>
 The “Unix Programming in Python” repository showcases assignments focused on leveraging Python to emulate Unix-like programming tasks. This project emphasizes the integration of Unix system programming principles with Python scripting, providing a practical approach to handling system-level operations.
